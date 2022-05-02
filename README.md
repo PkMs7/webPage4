@@ -2,6 +2,7 @@
 Site responsivo
 
 Tela smart1
+
 ![image](https://user-images.githubusercontent.com/100943409/166259995-8d55f42e-29b4-41e0-869d-d94a254095b9.png)
 
 Tela smart2
